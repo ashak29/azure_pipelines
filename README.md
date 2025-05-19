@@ -1,2 +1,2 @@
 # azure_pipelines
-sample
+azure_pipelines
